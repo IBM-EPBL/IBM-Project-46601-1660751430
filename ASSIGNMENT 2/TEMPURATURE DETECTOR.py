@@ -3,9 +3,9 @@ temp=list(range(0,1000))
 for i in temp:
     valu=random.choice(temp)
     if (valu>43):
-        print("temp is hight",valu)  
+        print("temp is high",valu)  
     else:
-        print("temp is normal",valu)
+        print("temp is low",valu)
         
     
   
